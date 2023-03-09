@@ -6,5 +6,6 @@ public class GetTest {
         System.out.println("hello git2");
         System.out.println("hot-fex test");
         System.out.println("push test");
+         System.out.println("pull github test");
     }
 }
